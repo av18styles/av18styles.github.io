@@ -1,15 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
+        <title>AV 18 Styles</title>
         <link>https://av18styles.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 09 Oct 2022 21:13:05 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1552919196@qq.com (阿威十八式工具人)</managingEditor>
+            <webMaster>1552919196@qq.com (阿威十八式工具人)</webMaster><lastBuildDate>Sun, 09 Oct 2022 21:13:05 &#43;0800</lastBuildDate>
             <atom:link href="https://av18styles.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First</title>
     <link>https://av18styles.github.io/first/</link>
     <pubDate>Sun, 09 Oct 2022 21:13:05 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>阿威十八式工具人</author>
     <guid>https://av18styles.github.io/first/</guid>
     <description><![CDATA[Self Introduction Slogan： 阿威十八式 全活不打折]]></description>
 </item>
