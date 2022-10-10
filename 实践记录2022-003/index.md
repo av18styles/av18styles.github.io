@@ -1,7 +1,7 @@
 # 实践记录2022-003
 
 
-# Form of Spanking Execution / 实践活动记录 2022-003
+# <center>Form of Spanking Execution / 实践活动记录 2022-003</center>
 
 <table>
     <tr>
