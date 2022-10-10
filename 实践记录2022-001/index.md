@@ -81,4 +81,4 @@ D. Greenhand Guide/新手上路
 
 |**Gallary**|
 |---|
-|![](/images/2022-001.jpg)|
+|![场景图](/images/2022-001.jpg "场景")|

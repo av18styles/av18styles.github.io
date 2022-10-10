@@ -67,5 +67,5 @@ D. Greenhand Guide/新手上路
 
 |**Gallary**|
 |---|
-|![](/images/2022-004.jpg)
-![](/images/tools-2022-004.jpg)|
+|![冷敷图](/images/2022-004.jpg "冷敷")
+![工具图](/images/tools-2022-004.jpg "工具")|
