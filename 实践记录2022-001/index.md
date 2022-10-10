@@ -1,8 +1,6 @@
 # 实践记录2022-001
 
 
-![](/2022-001.png)
-
 # Form of Spanking Execution / 实践活动记录 2022-001​  
 
 <table>
@@ -80,3 +78,7 @@ D. Greenhand Guide/新手上路
 最后喝了热奶茶，有被安慰到，喜欢。</td>
     </tr>
 </table>
+
+|**Gallary**|
+|---|
+|![](/images/2022-001.jpg)|
