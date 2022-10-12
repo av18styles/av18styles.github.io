@@ -4,7 +4,7 @@
 ![封面](/images/happy-games.jpg "  ")
 # <center>快乐游戏集锦</center>
 
-<center>快乐游戏集锦专用贴，持续更新，欢迎提供素材。</center>
+<center>快乐游戏集锦专用贴，持续更新，欢迎提供素材</center>
 
 --------
 
