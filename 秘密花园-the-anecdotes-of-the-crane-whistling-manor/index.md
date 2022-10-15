@@ -1,6 +1,5 @@
 # 秘密花园-The Anecdotes Of The Crane Whistling Manor
 
-![封面](/images/crane-whistling-manor.jpg "  ")
 # <center>The Anecdotes Of The Crane Whistling Manor</center>
 
 **Under** the warm light of the lamps, House Maid Emily was bending over the writing desk, slightly trembling with nervousness. Her eyes were in darkness, because of the leather blindfold.
