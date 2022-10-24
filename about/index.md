@@ -8,7 +8,7 @@
 
 > 联系方式：
 > 
-> &emsp;&emsp;QQ：152919196
+> &emsp;&emsp;QQ：1552919196
 > 
 > &emsp;&emsp;微博：[阿威十八式发言人](https://weibo.com/u/7790437574)
 > 
