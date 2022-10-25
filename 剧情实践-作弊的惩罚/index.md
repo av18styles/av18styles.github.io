@@ -11,7 +11,7 @@
 <body>
         <video
             id="my-video"
-            class="video-js vjs-default-skin vjs-big-play-centered"
+            class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid"
             controls
             preload="auto"
             width="800"
