@@ -8,7 +8,7 @@
 <body>
         <video
             id="my-video"
-            class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid"
+            class="video-js vjs-default-skin vjs-big-play-centered"
             controls
             preload="auto"
             width="800"
