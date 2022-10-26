@@ -1,6 +1,7 @@
 # 实践记录2022-010
 
 # <center>Form of Spanking Execution / 实践活动记录 2022-010</center>
+
 <table>
     <tr>
         <td><b>Spanker/执行人</b></td>
@@ -64,7 +65,7 @@ D. Greenhand Guide/新手上路
 &emsp;&emsp;实践结束之后，我们一起吃了饭。临走的时候，绿矾穿了一条紧身的裤子，裤子上显出了明显的肿起来的轮廓，非常有趣。下次再实践的话，或许集赞也是个不错的主意，哈哈。
         </td>
     </tr>
-  m   <tr>
+    <tr>
         <td><b>Spankee's Review/被执行人评价 </b></td>
         <td colspan=3>&emsp;&emsp;**记录一下第一次真正意义上的被打哭**
 
@@ -95,4 +96,5 @@ D. Greenhand Guide/新手上路
 
 |**Gallary**|
 |---|
-|![冷敷图](https://cdn.jsdelivr.net/gh/av18styles/resource-cdn/images/2022-010.png "冷敷")![工具图](https://cdn.jsdelivr.net/gh/av18styles/resource-cdn/images/tools-2022-010.png "玉竹、榉木棍、白蜡木棍、花梨木棍、紫竹鞭")|
+|![冷敷图](/images/2022-010.png "冷敷")
+![工具图](/images/tools-2022-010.png "玉竹、榉木棍、白蜡木棍、花梨木棍、紫竹鞭")|
