@@ -15,7 +15,7 @@
             height="450"
             poster="https://cdn.jsdelivr.net/gh/av18styles/resource-cdn/images/poster-punishment-for-cheating.jpg"
             data-setup="{}">
-           <source src="https://cdn.jsdelivr.net/gh/av18styles/resource-cdn/videos/punishment-for-cheating.mp4" type="video/mp4">
+           <source src="/剧情实践-作弊的惩罚/punishment-for-cheating.mp4" type="video/mp4">
         </video>
         <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
 </body>
