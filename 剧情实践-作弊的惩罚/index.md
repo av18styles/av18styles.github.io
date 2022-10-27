@@ -13,9 +13,9 @@
             preload="auto"
             width="800"
             height="450"
-            poster="/剧情实践-作弊的惩罚/poster-punishment-for-cheating.jpg"
+            poster="https://github.com/av18styles/resource.io/blob/main/images/poster-punishment-for-cheating.jpg?raw=true"
             data-setup="{}">
-           <source src="/剧情实践-作弊的惩罚/punishment-for-cheating.mp4" type="video/mp4">
+           <source src="https://github.com/av18styles/resource.io/blob/main/videos/punishment-for-cheating.mp4?raw=true" type="video/mp4">
         </video>
         <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
 </body>

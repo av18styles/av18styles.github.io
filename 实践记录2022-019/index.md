@@ -87,6 +87,6 @@ D. Greenhand Guide/新手上路
 
 |**Gallary**|
 |---|
-|![效果图1](/images/2022-019-1.jpg "效果图一")
-![效果图2](/images/2022-019-2.jpg "效果图二")
-![工具图](/images/tools-2022-019.jpg "工具")|
+|![效果图1](https://github.com/av18styles/resource.io/blob/main/images/2022-019-1.jpg?raw=true "效果图一")
+![效果图2](https://github.com/av18styles/resource.io/blob/main/images/2022-019-2.jpg?raw=true "效果图二")
+![工具图](https://github.com/av18styles/resource.io/blob/main/images/tools-2022-019.jpg?raw=true "工具")|

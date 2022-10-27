@@ -89,6 +89,6 @@ D. Greenhand Guide/新手上路
 
 |**Gallary**|
 |---|
-|![冷敷图](/images/2022-008.jpg "冷敷")
-![工具图](/images/tools-2022-008.jpg "工具")
-![游戏图](/images/games-2022-008.jpg "游戏")|
+|![冷敷图](https://github.com/av18styles/resource.io/blob/main/images/2022-008.jpg?raw=true "冷敷")
+![工具图](https://github.com/av18styles/resource.io/blob/main/images/tools-2022-008.jpg?raw=true "工具")
+![游戏图](https://github.com/av18styles/resource.io/blob/main/images/games-2022-008.jpg?raw=true "游戏")|

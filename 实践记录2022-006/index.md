@@ -85,5 +85,5 @@ Tips ：
 
 |**Gallary**|
 |---|
-|![冷敷图](/images/2022-006.jpg "冷敷")
-![工具图](/images/tools-2022-006.jpg "工具")|
+|![冷敷图](https://github.com/av18styles/resource.io/blob/main/images/2022-006.jpg?raw=true "冷敷")
+![工具图](https://github.com/av18styles/resource.io/blob/main/images/tools-2022-006.jpg?raw=true "工具")|

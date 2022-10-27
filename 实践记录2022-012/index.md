@@ -79,4 +79,4 @@ D. Greenhand Guide/新手上路
 
 |**Gallary**|
 |---|
-|![工具图](/images/tools-2022-012.jpg "工具")|
+|![工具图](https://github.com/av18styles/resource.io/blob/main/images/tools-2022-012.jpg?raw=true "工具")|
