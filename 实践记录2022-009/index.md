@@ -106,5 +106,5 @@ D. Greenhand Guide/新手上路
 
 |**Gallary**|
 |---|
-|![工具图](https://github.com/av18styles/resource.io/blob/main/images/tools-2022-009.jpg?raw=true "工具")
-![游戏图](https://github.com/av18styles/resource.io/blob/main/images/games-2022-009.jpg?raw=true "游戏")|
+|![工具图](tools-2022-009.jpg "工具")
+![游戏图](games-2022-009.jpg "游戏")|

@@ -92,6 +92,6 @@ ps：威哥的女朋友真的好漂亮！</td>
 
 |**Gallary**|
 |---|
-|![冷敷图](https://github.com/av18styles/resource.io/blob/main/images/2022-016.jpg?raw=true "冷敷")
-![第一轮工具](https://github.com/av18styles/resource.io/blob/main/images/tools-2022-016-1.jpg?raw=true "第一轮工具")
-![第二轮工具](https://github.com/av18styles/resource.io/blob/main/images/tools-2022-016-2.jpg?raw=true"第二轮工具")|
+|![冷敷图](2022-016.jpg "冷敷")
+![第一轮工具](tools-2022-016-1.jpg "第一轮工具")
+![第二轮工具](tools-2022-016-2.jpg "第二轮工具")|

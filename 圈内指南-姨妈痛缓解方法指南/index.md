@@ -11,7 +11,7 @@
 **​方法二：**
 
 &emsp;&emsp;​揉按十七椎穴，基本可以很快见效。穴位位置在腰部，当后正中线上，第5腰椎棘突下。穴位图如下：​
- ![十七椎解剖图](https://github.com/av18styles/resource.io/blob/main/images/17-zhui-1.jpg?raw=true " ")
- ![十七椎取穴图](https://github.com/av18styles/resource.io/blob/main/images/17-zhui-2.jpg?raw=true " ")
+ ![十七椎解剖图](17-zhui-1.jpg " ")
+ ![十七椎取穴图](17-zhui-2.jpg " ")
 
 &emsp;&emsp;​寻找此穴时，可以用手压一压，如果有明显的痛感，就是找对了位置。操作时，用拇指指关节加点力度，按揉该穴3—5分钟，感觉有轻微的痛感为度，不能只按，一定还要揉，才能让血脉畅通，疼痛才能缓解。

@@ -90,4 +90,4 @@ D. Greenhand Guide/新手上路
 
 |**Gallary**|
 |---|
-|![冷敷图](https://github.com/av18styles/resource.io/blob/main/images/2022-018.jpg?raw=true "冷敷")|
+|![冷敷图](2022-018.jpg "冷敷")|

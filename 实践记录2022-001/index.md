@@ -84,4 +84,4 @@ D. Greenhand Guide/新手上路
 
 |**Gallary**|
 |---|
-|![场景图](https://github.com/av18styles/resource.io/blob/main/images/2022-001.jpg?raw=true "场景")|
+|![场景图](2022-001.jpg "场景")|
