@@ -1,7 +1,5 @@
 # 秘密花园-开往春天的列车
 
-![封面](/images/spring-train.png "  ")
-
 # <center>开往春天的列车</center>
 
 &emsp;&emsp;**赵嘉明**已经不记得这是第几次出差了，但这次有些特别。
