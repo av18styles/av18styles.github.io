@@ -9,7 +9,7 @@
 &emsp;&emsp;To keep you all from paying too much money for low quality ⭕ videos, I hereby share the video resources I have collected.  
 
 - ### The world wide Videos Sharing:
-  The following is a ⭕ videos collection of more than **11TB**, which needs a specific software called **bittorrent_sync ({{<link href="https://github.com/av18styles/resource.io/blob/main/applications/bittorrent_sync.exe?raw=true" content="Click to download" title= "bittorrent_sync">}})** to synchronize the videos to your PC. And the software only works on Windows computers. This collection contains the productions from the major brands of our ⭕ in the world, including FHS, GBS, Lupus, etc. The list of the brands and keys is as follows:
+  The following is a ⭕ videos collection of more than **11TB**, which needs a specific software called **bittorrent_sync ({{<link href="https://pan.baidu.com/s/1OFAy_Ti2i3Byj8YdKdBmvA?pwd=2920" content="Click to download" title= "bittorrent_sync">}})** to synchronize the videos to your PC. And the software only works on Windows computers. This collection contains the productions from the major brands of our ⭕ in the world, including FHS, GBS, Lupus, etc. The list of the brands and keys is as follows:
   **Brand**|**Key**
   -|-
   20sites                |B7KOWAFHL252GUIPGTWU52AG2P5RALHBU
@@ -137,7 +137,7 @@
   Worst Behavior         |B6TCURAVNNBDKM3AN7D5TU4GVRJ24URLP
 
 - ### The domestic videos sharing:  
-  This part contains two famous domestic brands, **Handuty** and **CNSP**, which also need **bittorrent_sync ({{<link href="https://github.com/av18styles/resource.io/blob/main/applications/bittorrent_sync.exe?raw=true" content="Click to download" title= "bittorrent_sync">}})** to synchronize the videos to your PC. The keys are as follows:
+  This part contains two famous domestic brands, **Handuty** and **CNSP**, which also need **bittorrent_sync ({{<link href="https://pan.baidu.com/s/1OFAy_Ti2i3Byj8YdKdBmvA?pwd=2920" content="Click to download" title= "bittorrent_sync">}})** to synchronize the videos to your PC. The keys are as follows:
   **Brand**|**Key**
   -|-
   Handuty|BLAB7M6D2V6B5MFCU66LTPDA36YUVFW7R
