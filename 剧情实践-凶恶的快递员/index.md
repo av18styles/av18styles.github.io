@@ -15,7 +15,7 @@
             height="450"
             poster="poster-ferocious-courier.jpg"
             data-setup="{}">  
-           <source src="poster-ferocious-courier.mp4" type="video/mp4">
+           <source src="ferocious-courier.mp4" type="video/mp4">
         </video>
         <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
 </body>
