@@ -10,7 +10,7 @@
 > 
 > &emsp;&emsp;QQ：1552919196
 > 
-> &emsp;&emsp;微博：[阿威十八式发言人](https://weibo.com/u/7790437574)
+> &emsp;&emsp;微博：[阿威十八式工具人](https://weibo.com/u/7790437574)
 > 
 > &emsp;&emsp;&emsp;&emsp;&emsp;[阿威十八式传承人](https://weibo.com/u/7409397912)
 
@@ -31,7 +31,7 @@
 > 
 > &emsp;&emsp; B. Fascinating Games/快乐游戏
 >
-> &emsp;&emsp;&emsp;  选择快乐游戏集锦中的1-3种游戏进行实践。
+> &emsp;&emsp;&emsp;  选择{{<link href="/圈内指南-快乐游戏集锦" content="快乐游戏集锦" title="快乐游戏集锦">}}中的1-3种游戏进行实践。
 > 
 > &emsp;&emsp; C. Role Play/角色扮演
 >
