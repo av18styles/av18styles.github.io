@@ -15,28 +15,33 @@
 > &emsp;&emsp;&emsp;&emsp;&emsp;[阿威十八式传承人](https://weibo.com/u/7409397912)
 
 <!-- > ![请注意](/images/important-notice.png " ") -->
-> 实践预约须知：
+> 丰臀预约须知：
 > 
-> &emsp;&emsp; 1. 我不收费！“下单”只是个形象的说法，因为要填写实践记录表格。
+> &emsp;&emsp; 1. 我不收费！“下单”只是个形象的说法，因为要填写丰臀记录表格。
 >
-> &emsp;&emsp; 2. 我有女朋友！她也是⭕里人，所以她不介意，而且也会一起玩。如果你介意，那就算了。
+> &emsp;&emsp; 2. 我有女朋友！她也是⭕里人，所以她不介意，而且也会一起去。如果你介意，那就算了。
 >
 > &emsp;&emsp; 3. 欢迎北京周边的小仙女通过QQ或微博私信垂询并预约。
 
-> 实践项目介绍：
+> 丰臀选项介绍：
 >
-> &emsp;&emsp; A. Discipline & Punishment/管教惩罚 
+> &emsp;&emsp;  甲. 初次体验
+>
+> &emsp;&emsp;&emsp;  总共使用10件工具，第一轮每件工具10下；第二轮由Spankee自选5件工具，每件工具20下。
+>
+> &emsp;&emsp; 乙. 管教惩罚
 >
 > &emsp;&emsp;&emsp;  总共使用10件工具，第一轮每件工具20下；第二轮由Spankee自选8件工具，每件工具20-30下。
 > 
-> &emsp;&emsp; B. Fascinating Games/快乐游戏
+> &emsp;&emsp; 丙. 快乐游戏
 >
 > &emsp;&emsp;&emsp;  选择{{<link href="/圈内指南-快乐游戏集锦" content="快乐游戏集锦" title="快乐游戏集锦">}}中的1-3种游戏进行实践。
 > 
-> &emsp;&emsp; C. Role Play/角色扮演
+> &emsp;&emsp; 丁. 角色扮演
 >
 > &emsp;&emsp;&emsp;  根据剧本或者剧本大纲沉浸式体验实践。
-> 
-> &emsp;&emsp;  D. Greenhand Guide/新手上路
 >
-> &emsp;&emsp;&emsp;  总共使用10件工具，第一轮每件工具10下；第二轮由Spankee自选5件工具，每件工具20下。
+> &emsp;&emsp; 戊. 事了无痕
+>
+> &emsp;&emsp;&emsp; 使用特殊手法，在尽量保证体验感的前提下，尽量在结束后只留下三天内即可完全恢复的轻微痕迹甚至当天即可恢复无痕。
+
