@@ -8,7 +8,9 @@
 
 > 联系方式：
 > 
-> &emsp;&emsp;QQ：1552919196
+> &emsp;&emsp;QQ：2082336689（我女朋友的QQ号，她负责审核预约。）
+>
+> &emsp;&emsp;&emsp;&emsp;&emsp;1552919196（我的QQ）
 > 
 > &emsp;&emsp;微博：[阿威十八式工具人](https://weibo.com/u/7790437574)
 > 
