@@ -8,13 +8,13 @@
 
 > 联系方式：
 > 
-> &emsp;&emsp;QQ：2082336689（我女朋友的QQ号，她负责审核预约）
+> &emsp;&emsp;QQ：1552919196（我的QQ）
 >
-> &emsp;&emsp;&emsp;&emsp;&emsp;1552919196（我的QQ）
+> &emsp;&emsp;&emsp;&emsp;&emsp;2082336689（我女朋友的QQ号，她负责审核预约。男士请主动提供身高、体重、年龄和照片。大圈勿扰！大圈勿扰！！大圈勿扰！！！）
 > 
 > &emsp;&emsp;微博：[阿威十八式工具人](https://weibo.com/u/7790437574)
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;[阿威十八式传承人](https://weibo.com/u/7409397912)
+> &emsp;&emsp;抖音、快手：阿威十八式工具人
 
 <!-- > ![请注意](/images/important-notice.png " ") -->
 > 丰臀预约须知：
