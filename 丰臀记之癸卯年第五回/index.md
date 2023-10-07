@@ -51,8 +51,6 @@
         <td colspan=3>
         &emsp;&emsp;
 
-&emsp;&emsp;这次我准备少写一点，因为我准备了一段非常精彩的面部特写录像。当然为了保护姑娘的隐私，对视频进行了模糊和打码处理。
-
 &emsp;&emsp;本次实践也算一次还债之旅，小姑娘三个月前就约我了，一直到最近才有时间把以前的欠债逐一补完。
 
 &emsp;&emsp;小姑娘也是山西人。为什么说也呢？因为在北京的这些年揍过的姑娘里大概有三分之一都来自三晋大地。这片沃土养育的女儿大多都有着羊脂玉一般白腻的皮肤，摸上去柔软温润。她也不例外，更绝妙的是在用小木板子热身之后，雪白的屁股上布满了红霞，煞是好看。
@@ -64,7 +62,7 @@
 &emsp;&emsp;在冷敷的时候我给她循环播放了刚刚录的视频，她在羞耻中保证以后再也不熬夜了，希望她在痛定思痛之后能做到吧。
 
 &emsp;&emsp;
-            <head>
+            <!-- <head>
                 <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
             </head>
             <body>
@@ -80,7 +78,7 @@
                 <source src="癸卯年第五回-面部特写-480p.mp4" type="video/mp4">
                 </video>
                 <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
-            </body>
+            </body> -->
 
 &emsp;&emsp;
         </td>
