@@ -8,13 +8,17 @@
 
 > 联系方式：
 > 
-> &emsp;&emsp;QQ：1552919196（我的QQ）
+> &emsp;&emsp;QQ: 1552919196
+> 
+> &emsp;&emsp;微博ID: [阿威十八式工具人](https://weibo.com/u/7790437574)
+> 
+> &emsp;&emsp;X/Twitter ID: [@av18styles](https://x.com/av18styles)
 >
-> &emsp;&emsp;&emsp;&emsp;&emsp;2082336689（我女朋友的QQ号，她负责审核预约。男士请主动提供身高、体重、年龄和照片。大圈勿扰！大圈勿扰！！大圈勿扰！！！）
-> 
-> &emsp;&emsp;微博：[阿威十八式工具人](https://weibo.com/u/7790437574)
-> 
-> &emsp;&emsp;抖音、快手：阿威十八式工具人
+> &emsp;&emsp;YouTube Channel: [AV18STYLES](https://www.youtube.com/@AV18STYLES)
+>
+> &emsp;&emsp;Telegram Group: [V·Spanking](https://t.me/+yj7GhEXbwyg3YzA1)
+>
+> &emsp;&emsp;后三者需要魔法上网，方法在这里：{{<link href="/圈内指南-我的telegram群入群指南" content="我的Telegram群入群指南" title="我的Telegram群入群指南">}}
 
 <!-- > ![请注意](/images/important-notice.png " ") -->
 > 丰臀预约须知：
