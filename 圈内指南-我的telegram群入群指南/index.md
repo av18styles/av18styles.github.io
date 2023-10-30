@@ -13,7 +13,7 @@
 
 &emsp;&emsp;&emsp;&emsp; 1. SakuraCat：{{<link href="https://dokidokiweb.com" content="dokidokiweb.com" title="SakuraCat">}}
 
-&emsp;&emsp;&emsp;&emsp; 2. iKuuu：{{<link href="https://ikuuu.art" content="ikuuu.art" title="ikuuu.art">}}、{{<link href="https://ikuuu.uk" content="ikuuu.uk" title="ikuuu.uk">}}
+&emsp;&emsp;&emsp;&emsp; 2. iKuuu：{{<link href="https://ikuuu.me" content="ikuuu.me" title="ikuuu.me">}}、{{<link href="https://ikuuu.boo" content="ikuuu.boo" title="ikuuu.boo">}}
 
 &emsp;&emsp; Telegram软件获取入口(开启**魔法上网**后才能打开)：{{<link href="https://telegram.org" content="telegram.org" title="Telegram">}}
 
