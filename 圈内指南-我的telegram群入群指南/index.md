@@ -11,9 +11,13 @@
 
 &emsp;&emsp; 首先完成魔法上网，任选一个**魔法上网入口**：
 
-&emsp;&emsp;&emsp;&emsp; 1. SakuraCat：{{<link href="https://dokidokiweb.com" content="dokidokiweb.com" title="SakuraCat">}}
+&emsp;&emsp;&emsp;&emsp; 1. SakuraCat: [dokidokiweb.com](https://dokidokiweb.com)
 
-&emsp;&emsp;&emsp;&emsp; 2. iKuuu：{{<link href="https://ikuuu.me" content="ikuuu.me" title="ikuuu.me">}}、{{<link href="https://ikuuu.boo" content="ikuuu.boo" title="ikuuu.boo">}}
+&emsp;&emsp;&emsp;&emsp; 2. iKuuu: [ikuuu.me](https://ikuuu.me)、[ikuuu.boo](https://ikuuu.boo)
+
+&emsp;&emsp;&emsp;&emsp; 3. 狗狗加速: [dg1.top](https://dg1.top/)
+
+&emsp;&emsp;&emsp;&emsp; 4. EEVPN: [eevpn88.com](https://www.eevpn88.com/)
 
 &emsp;&emsp; Telegram软件获取入口(开启**魔法上网**后才能打开)：{{<link href="https://telegram.org" content="telegram.org" title="Telegram">}}
 
