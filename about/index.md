@@ -14,11 +14,9 @@
 > 
 > &emsp;&emsp;X/Twitter ID: [@av18styles](https://x.com/av18styles)
 >
-> &emsp;&emsp;YouTube Channel: [AV18STYLES](https://www.youtube.com/@AV18STYLES)
->
 > &emsp;&emsp;Telegram Group: [V·Spanking](https://t.me/+yj7GhEXbwyg3YzA1)
 >
-> &emsp;&emsp;后三者需要魔法上网，方法在这里：{{<link href="/圈内指南-我的telegram群入群指南" content="我的Telegram群入群指南" title="我的Telegram群入群指南">}}
+> &emsp;&emsp;后两者需要使用魔法，方法在这里：{{<link href="/圈内指南-魔法使用指南" content="魔法使用指南" title="魔法使用指南">}}
 
 <!-- > ![请注意](/images/important-notice.png " ") -->
 > 丰臀预约须知：
