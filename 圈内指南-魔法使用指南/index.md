@@ -20,7 +20,7 @@
 
 &emsp;&emsp; **二、X/Twitter：**
 
-&emsp;&emsp; &emsp;&emsp; X/Twitter是类似于微博的社交平台。建议直接访问网页版，并注册账号。
+&emsp;&emsp; &emsp;&emsp; X/Twitter是类似于微博的社交平台。建议直接访问[网页版X/Twitter](https://x.com)，并注册账号。
 
 &emsp;&emsp; &emsp;&emsp; 我的X/Twitter账号是：[@av18styles](https://x.com/av18styles)
 
