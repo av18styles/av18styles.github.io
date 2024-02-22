@@ -6,7 +6,7 @@
 
 -----------
 
-&emsp;&emsp; **一、魔法入口**：
+&emsp;&emsp; **一、魔法入口（四选一）**：
 
 &emsp;&emsp;&emsp;&emsp; 1. SakuraCat: [dokidokiweb.com](https://dokidokiweb.com)
 
@@ -30,7 +30,6 @@
 
 &emsp;&emsp; &emsp;&emsp; Telegram是类似于QQ的聊天软件。我的Telegram群主要用来宣扬爱国主义精神以及分享小圈视频。
 
-&emsp;&emsp; &emsp;&emsp; Telegram软件获取入口(开启**魔法**后才能打开)：{{<link href="https://telegram.org" content="telegram.org" title="Telegram">}}
+&emsp;&emsp; &emsp;&emsp; Telegram软件获取入口(开启**魔法**后才能打开)：[telegram.org](https://telegram.org)
 
-&emsp;&emsp; &emsp;&emsp; Telegram群***V·Spanking***邀请链接：{{<link href="https://t.me/+yj7GhEXbwyg3YzA1" content="t.me/VSpanking" title="VSpanking">}}
-
+&emsp;&emsp; &emsp;&emsp; Telegram群***V·Spanking***邀请链接：[t.me/VSpanking](https://t.me/+yj7GhEXbwyg3YzA1)
