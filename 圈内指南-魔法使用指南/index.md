@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;&emsp; 1. SakuraCat: [dokidokiweb.com](https://dokidokiweb.com)
 
-&emsp;&emsp;&emsp;&emsp; 2. iKuuu: [ikuuu.me](https://ikuuu.me)、[ikuuu.boo](https://ikuuu.boo)
+&emsp;&emsp;&emsp;&emsp; 2. iKuuu: [ikuuu.pw](https://ikuuu.pw)
 
 &emsp;&emsp;&emsp;&emsp; 3. 狗狗加速: [dg1.top](https://dg1.top/)
 
