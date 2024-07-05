@@ -8,7 +8,7 @@
 
 > 联系方式：
 > 
-> &emsp;&emsp;QQ: 1552919196
+> &emsp;&emsp;QQ: 3839418407
 > 
 > &emsp;&emsp;微博ID: [阿威十八式工具人](https://weibo.com/u/7790437574)
 > 
